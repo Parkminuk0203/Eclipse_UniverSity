@@ -13,7 +13,7 @@ public class ArrayTest3 {
 		int sum=0, avg=0;
 		// 성적 입력
 		for (int i = 0; i < arr.length; i++) {
-			System.out.print("성적을 입력하시오:");
+			System.out.print(i+1+"번 성적을 입력하시오:");
 			arr[i] = sc.nextInt();
 		}
 
