@@ -16,6 +16,6 @@ public class ArrayTest1 {
 			System.out.print(arr[i]+" ");
 		}
 
-	}
+	} // end of main
 
-}
+} // end of class
