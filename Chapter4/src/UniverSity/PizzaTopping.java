@@ -2,7 +2,7 @@ package UniverSity;
 
 import java.util.*;
 
-public class PizzaTopping2 {
+public class PizzaTopping {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
