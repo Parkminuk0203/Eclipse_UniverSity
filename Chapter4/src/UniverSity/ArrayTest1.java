@@ -2,7 +2,7 @@ package UniverSity;
 
 import java.util.*;
 
-public class ArrayTest {
+public class ArrayTest1 {
 
 	public static void main(String[] args) {
 //		사용자 5명의 성적을 입력받아 평균을 구하는 프로그램

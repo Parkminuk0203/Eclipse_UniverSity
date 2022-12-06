@@ -18,7 +18,7 @@ public class Dice {
 		}
 		// 1~6까지 나온 횟수 출력
 		for(int i=1; i<freq.length; i++) {
-			System.out.printf("%d : ",i);
+			System.out.printf("%d : %d :",i,freq[i]);
 			for(int j=0; j<freq[i]; j++) {
 				System.out.print("*");
 			}
