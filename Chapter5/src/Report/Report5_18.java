@@ -1,6 +1,6 @@
 package Report;
 import java.util.*;
-public class report_5_18 {
+public class Report5_18 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

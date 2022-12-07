@@ -1,6 +1,6 @@
 package Report;
 
-public class report_5_4 {
+public class Report5_4 {
 
 	public static void main(String[] args) {
 //		1

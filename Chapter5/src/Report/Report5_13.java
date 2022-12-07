@@ -1,7 +1,7 @@
 package Report;
 
 
-public class report_5_13 {
+public class Report5_13 {
 	int sum(int x, int y) {
 		return x+y;
 	}
@@ -13,7 +13,7 @@ public class report_5_13 {
 	}
 	
 	public static void main(String[] args) {
-		report_5_13 rpt = new report_5_13();
+		Report5_13 rpt = new Report5_13();
 		System.out.println(rpt.sum(10, 20));
 		System.out.println(rpt.sum(10.0, 20));
 		System.out.println(rpt.sum(10, 20.0));

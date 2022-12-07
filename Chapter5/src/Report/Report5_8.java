@@ -1,6 +1,6 @@
 package Report;
 
-public class report_5_8 { 
+public class Report5_8 { 
     public static void main(String[ ] args)
     { 
         float f1[ ], f2[ ]; 
