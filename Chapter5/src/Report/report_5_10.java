@@ -1,4 +1,4 @@
-package report;
+package Report;
 
 public class report_5_10 {
 

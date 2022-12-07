@@ -1,4 +1,4 @@
-package report;
+package Report;
 class Complex_Number {
 	int real;
 	int imag;

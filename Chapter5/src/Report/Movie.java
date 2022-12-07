@@ -1,4 +1,4 @@
-package report;
+package Report;
 
 public class Movie {
 	String name = "은밀하게 위대하게";

@@ -1,4 +1,4 @@
-package report;
+package Report;
 
 public class date2_test {
 

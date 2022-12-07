@@ -1,4 +1,4 @@
-package report;
+package Report;
 public class NumberBox {
 	public int ivalue;
 	public float fvalue;

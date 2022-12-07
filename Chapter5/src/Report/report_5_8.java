@@ -1,4 +1,4 @@
-package report;
+package Report;
 
 public class report_5_8 { 
     public static void main(String[ ] args)

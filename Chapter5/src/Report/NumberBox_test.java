@@ -1,4 +1,4 @@
-package report;
+package Report;
 
 public class NumberBox_test {
 

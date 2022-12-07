@@ -1,4 +1,4 @@
-package report;
+package Report;
 import java.util.*;
 public class LoginTest {
 

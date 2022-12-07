@@ -1,4 +1,4 @@
-package report;
+package Report;
 class Rectangle {
 		int width, height;
 		

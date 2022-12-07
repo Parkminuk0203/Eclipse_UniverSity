@@ -1,4 +1,4 @@
-package report;
+package Report;
 class MyClass  { } 
 class TTest {  
     MyClass doSomething() 
