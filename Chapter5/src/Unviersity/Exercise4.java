@@ -12,9 +12,12 @@ public class Exercise4 {
 		System.out.print("자를 개수 입력 : ");
 		n = sc.nextInt();
 
-		String[] subStringArray = str.split("(?<=\\G.{" + n + "})");
-
-		System.out.println(Arrays.toString(subStringArray));
+		String[] subarr = str.split("(?<=\\G.{" + n + "})");
+		
+		System.out.print("분리된 문자열 :");
+		for(int i=0; i<subarr.length; i++) {
+			System.out.print("[\"" + subarr[i] + "\"]");
+		}
 	} // end of main
 
 } // end of class
