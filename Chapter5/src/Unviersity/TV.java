@@ -1,4 +1,4 @@
-package unviersity;
+package Unviersity;
 
 public class TV {
 	String name;

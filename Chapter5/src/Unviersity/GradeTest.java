@@ -1,4 +1,4 @@
-package unviersity;
+package Unviersity;
 import java.util.*;
 public class GradeTest {
 

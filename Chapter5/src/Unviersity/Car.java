@@ -1,4 +1,4 @@
-package unviersity;
+package Unviersity;
 
 public class Car {
 //	private String color; // 내 클래스안에서만 변경 가능하게 제한

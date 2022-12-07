@@ -1,4 +1,4 @@
-package unviersity;
+package Unviersity;
 
 public class MyMath {
 	// 정수 값을 제곱하는 메소드

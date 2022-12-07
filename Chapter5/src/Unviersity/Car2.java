@@ -1,4 +1,4 @@
-package unviersity;
+package Unviersity;
 
 public class Car2 {
 	String color; // »ö»ó
